@@ -1,0 +1,17 @@
+=====================================================
+=              Guia de instalação Ruby              =
+=====================================================
+@Autor: Rafael Itiroco Gongora / Leandro Pessoa Santos
+@Data de criação: 17/04/2018
+@Data de Atualização: 11/05/2018
+
+
+Passo 1 - Executar "1-rubyinstaller-2.3.3.exe"
+
+Passo 2 - Executar "2-DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe", escolhendo o caminho "C:\DevKit"
+
+Passo 3 - Executar "3-Configurar_Ambiente_Ruby.bat". Caso escolha a instalação local, precisa de ajustes
+porque não está instalando todas(deve ser por causa das dependências)
+
+
+Depois espero que funcione...
